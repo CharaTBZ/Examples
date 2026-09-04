@@ -1,0 +1,16 @@
+{
+  "1":
+  {
+    "card_back": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleBack.jpg",
+    "card_front": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleCard.png",
+    "name": "This is the name of the Card",
+    "description": "You can\ndo linebreaks here",
+    "tags":
+    {
+      "1": "Tag1",
+      "2": "Tag2"
+    },
+    "gm_notes": "[i][b][color=green]Woah![/color][/b][/i] Check out this [color=red]BB code![/color]",
+    "lua_script": "local canYouAddCodeHere = true"
+  }
+}
