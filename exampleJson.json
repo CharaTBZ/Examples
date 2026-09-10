@@ -1,0 +1,61 @@
+{
+  "Card":
+  {
+    "name": "Name",
+    "description": "Desc",
+    "gm_notes": "GM",
+    "tags": {
+      "1": "Tag1",
+      "2": "Tag2"
+    },
+    "lua_script": "local canYouAddCodeHere = true",
+    "face": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleCardFront.png",
+    "back": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleCardBack.jpg",
+    "type": "0",
+    "sideways": "false"
+  },
+  "Tile":
+  {
+    "name": "Name",
+    "description": "Desc",
+    "gm_notes": "GM",
+    "tags": {
+      "1": "Tag1",
+      "2": "Tag2"
+    },
+    "lua_script": "local canYouAddCodeHere = true",
+    "face": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleTokenFront.png",
+    "back": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleTokenBack.png",
+    "type": "2",
+    "thickness": "0.5",
+    "stackable": "true"
+  },
+  "Token":
+  {
+    "name": "Name",
+    "description": "Desc",
+    "gm_notes": "GM",
+    "tags": {
+      "1": "Tag1",
+      "2": "Tag2"
+    },
+    "lua_script": "local canYouAddCodeHere = true",
+    "face": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleTokenFront.png",
+    "thickness": "0.5",
+    "merge_distance": "5",
+    "stackable": "true"
+  },
+  "Figurine":
+  {
+    "name": "Name",
+    "description": "Desc",
+    "gm_notes": "GM",
+    "tags": {
+      "1": "Tag1",
+      "2": "Tag2"
+    },
+    "lua_script": "local canYouAddCodeHere = true",
+    "face": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleFigurineFront.gif",
+    "back": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleFigurineBack.gif"
+  }
+}
