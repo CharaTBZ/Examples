@@ -55,7 +55,7 @@
       "2": "Tag2"
     },
     "lua_script": "local canYouAddCodeHere = true",
-    "face": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleFigurineFront.mp4",
-    "back": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleFigurineBack.mp4"
+    "face": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleFigurineFront.png",
+    "back": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleFigurineBack.png"
   }
 }
