@@ -76,8 +76,8 @@
         "2": "Tag2"
       },
       "lua_script": "local canYouAddCodeHere = true",
-      "face": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleFigurineFront.gif",
-      "back": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleFigurineBack.gif"
+      "face": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleFigurineFront.png",
+      "back": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleFigurineBack.png"
     }
   }
 }
