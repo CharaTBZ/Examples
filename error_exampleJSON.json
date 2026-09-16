@@ -1,0 +1,29 @@
+{
+  "Card": {
+    "1": {
+      "name": "Good Chara",
+      "description": "This card works as intended",
+      "face": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleCardFront.png",
+      "back": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleCardBack.jpg",
+      "type": "0",
+      "sideways": "true"
+    },
+    "2": {
+      "name": "EVIL Chara 1",
+      "description": "This card has a broken facelink",
+      "face": "https://youtu.be/dQw4w9WgXcQ?si=1uWgyk4X7VfgOTLf",
+      "back": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleCardBack.jpg",
+      "type": "0",
+      "sideways": "false"
+    },
+    "3": {
+      "named": "EVIL Chara 2",
+      "desc": "This card's format is messed up!",
+      "faced": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/error_exampleCardFront.png",
+      "backed": "https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleCardBack.jpg",
+      "typed": "0",
+      "sidewas": "true"
+    },
+    "4": {}
+  }
+}
