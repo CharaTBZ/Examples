@@ -1,0 +1,5 @@
+type,face,back,name,description,gm_notes,tags
+Card,https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleCardFront.png,https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleCardBack.jpg,Card Test,[ff0000][b]BBCode[/b],GM,"Tag1,Tag2"
+Tile,https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleTokenFront.png,,Name of Tile,test,,Tag2
+Token,https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleTokenFront.png,,Token Name,,,
+Figurine,https://raw.githubusercontent.com/CharaTBZ/Examples/refs/heads/main/exampleFigurineFront.png,,The Chara,,test,
